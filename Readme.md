@@ -1,4 +1,4 @@
-# Silent Toolkit
+# VOIDCORE
 
 Educational red-team toolkit that demonstrates a silent Python implant, C dropper, and command-line C2 controller.
 
